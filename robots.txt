@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiteigaeh.lemonlab.net/sitemap.xml
